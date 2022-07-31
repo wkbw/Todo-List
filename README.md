@@ -41,6 +41,6 @@ Learning how create a working ToDo List was pretty fun. Also working through the
 
 
 ## License Information
-[This Pac-Man project is licensed under the MIT License](https://github.com/wkbw/Pac-Man/blob/main/LICENSE).
+[This ToDo List project is licensed under the MIT License](https://github.com/wkbw/Todo-List/blob/main/LICENSE).
 
 
